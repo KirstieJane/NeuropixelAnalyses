@@ -29,6 +29,10 @@ The project has 4 current objectives:
 
 ## Status
 
+Currently hosted on Binder
+:bug: Key bugs are on logistic-regression branch
+
+
 
 ## Built With
 
@@ -37,7 +41,10 @@ The project has 4 current objectives:
 
 ## Get Started
 
-
+There's a few entry points :star2:
+- you can click the git sheild above which will take you to Binder (or follow the link [here](https://mybinder.org/v2/gh/BrainonSilicon/NeuropixelAnalyses/HEAD))
+- You can open an issue or comment on a currently open issue to fix some bug 
+- Or just reach out! 
 
 
 
