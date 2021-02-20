@@ -30,7 +30,9 @@ The project has 4 current objectives:
 ## Status
 
 
+## Built With
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BrainonSilicon/NeuropixelAnalyses/HEAD)
 
 
 ## Tests
