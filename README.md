@@ -27,7 +27,11 @@ The project has 4 current objectives:
 4. Create reuseable code (eg. using functions)
 
 
-## Status
+## Current Status
+
+:bug: BUG table is no longer creating or saving. Possibly due to the Binder switch and pandas install issues
+
+
 
 
 ## Built With
