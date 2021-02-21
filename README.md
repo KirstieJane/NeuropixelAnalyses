@@ -29,10 +29,11 @@ The project has 4 current objectives:
 
 ## Status
 
-
+WIP: The most recent code is in[spike_analyses_models](https://github.com/BrainonSilicon/NeuropixelAnalyses/blob/master/spike_analyses_models.ipynb)
 - :bug: Key bugs are on logistic-regression branch
 - :bug: Having a few sticking points reshaping the data for a LogReg
 
+WORKING: The code for analyzing the mouse responses based on spiking is in [spike_by_response_analyses](https://github.com/BrainonSilicon/NeuropixelAnalyses/blob/master/spike_by_response_analyses.ipynb)
 
 
 ## Built With
