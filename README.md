@@ -13,9 +13,9 @@ keys = session_20.keys()
 print(keys)
 
 ```
-as a note, session 4 has really good Primary Visual Cortex data so that's always a good place to start. 
+Note: session 4 has really good Primary Visual Cortex data so that's always a good place to start. 
 
-You can read more about the neuropixel dataset [here](https://www.biorxiv.org/content/10.1101/2020.10.27.358291v1) 
+:mouse: You can read more about the neuropixel dataset [here](https://www.biorxiv.org/content/10.1101/2020.10.27.358291v1) 
 
 
 ## Goals
@@ -29,8 +29,9 @@ The project has 4 current objectives:
 
 ## Status
 
-Currently hosted on Binder
-:bug: Key bugs are on logistic-regression branch
+
+- :bug: Key bugs are on logistic-regression branch
+- :bug: Having a few sticking points reshaping the data for a LogReg
 
 
 
@@ -41,7 +42,7 @@ Currently hosted on Binder
 
 ## Get Started
 
-There's a few entry points :star2:
+:star2: There's a few entry points
 - you can click the git sheild above which will take you to Binder (or follow the link [here](https://mybinder.org/v2/gh/BrainonSilicon/NeuropixelAnalyses/HEAD))
 - You can open an issue or comment on a currently open issue to fix some bug 
 - Or just reach out! 
